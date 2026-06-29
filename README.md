@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://digitalchokro.com/assets/images/logo.png" alt="Digital Chokro" width="200"/>
+  <img src="./logo.png" alt="Digital Chokro" width="300"/>
   <h1>Hi, I'm Nur Mohammad 👋</h1>
   <p><b>Founder & Lead Engineer at <a href="https://digitalchokro.com">Digital Chokro</a></b></p>
 </div>
