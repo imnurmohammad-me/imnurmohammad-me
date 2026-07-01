@@ -1,7 +1,7 @@
 # Nur Mohammad
 **Full-Stack Developer | System Architect | AI Integration Specialist**
 
-Welcome to my GitHub profile. I am a software engineer specializing in scalable full-stack development, cross-platform mobile applications, and local AI implementations. I architect systems that blend robust backend logic with highly polished frontend experiences.
+Welcome to my GitHub profile. I am a software engineer specializing in scalable full-stack development, cross-platform mobile applications, and local AI implementations. I architect systems that blend backend logic with highly polished frontend experiences.
 
 ---
 
